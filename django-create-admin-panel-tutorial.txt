@@ -1,0 +1,24 @@
+If you create a admin panel in DJANGO
+
+First, create a env fille and project. 
+
+Second write this command in terminal or cmd
+
+Mac and Linux:
+
+-----------------------------------|
+python3 manage.py createsuperuser  |
+-----------------------------------|
+Windows
+
+---------------------------------|
+python manage.py createsuperuser |
+---------------------------------|
+
+Third, enter your username, email and password
+
+And then you create a user for admin panel
+
+Forth, Run your DJANGO project. and copey this link: | 127.0.0.1:8000/admin |
+
+Enter your username and password that you entered in the terminal or cmd
